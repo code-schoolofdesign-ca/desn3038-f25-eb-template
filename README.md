@@ -1,11 +1,11 @@
-# desn3038-w25-eb
+# desn3038-f25-eb
 
 ## Database credentials
 
 - Hostname: `gbc.goodcodeclub.com`
-- Username: `w25_{STUDENTID}`, where `{STUDENTID}` is your student ID (ex. `w25_101010101`)
-- Password: `w25_{STUDENTID}`
-- Database: `w25_{STUDENTID}_e4` (note `_e4` at the end)
+- Username: `f25_{STUDENTID}`, where `{STUDENTID}` is your student ID (ex. `f25_101010101`)
+- Password: `f25_{STUDENTID}`
+- Database: `f25_{STUDENTID}_e4` (note `_e4` at the end)
 
 ## Checklist / before you begin
 
